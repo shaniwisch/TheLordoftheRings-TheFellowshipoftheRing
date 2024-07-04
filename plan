@@ -1,0 +1,123 @@
+עמוד 1: דף נחיתה
+כותרת: "Welcome to the Middle-Earth adventure!"
+תוכן: "Gandalf is waiting for you to start the journey."
+כפתור: "Start Your Adventure".
+
+עמוד 2: התעוררות בארץ התיכונה
+כותרת: "You wake up in Middle-Earth"
+תוכן: "You wake up in Middle-Earth, surrounded by amazing landscapes, not knowing how you got there."
+כפתור: "Meet Gandalf".
+
+עמוד 3: פגישה עם גנדלף
+כותרת: "Meeting Gandalf"
+תוכן: "Gandalf introduces himself and tells you about the mission to save the ring."
+שאלות קצרות:
+"What is the name of the character you met?"
+"What is your mission?"
+כפתור: "Continue to Hobbiton".
+
+עמוד 4: הוביטון
+כותרת: "Visit to Hobbiton"
+תוכן: "Welcome to Hobbiton! You meet Frodo, Sam, and other characters."
+תמונה אינטראקטיבית: "Find the ring in Bilbo's house".
+כפתור: "Find the ring".
+
+עמוד,6.5,5: הגעת הפרשים השחורים
+כותרת: "The Black Riders Arrive"
+תוכן: "The Black Riders are searching for the ring. You need to hide and escape."
+משימה: "Find a safe route to escape the Black Riders using a map of Hobbiton."
+כפתור: "Escape to Bree".
+
+עמוד 6: הפונדק של פרנסיס
+כותרת: "The Prancing Pony Inn"
+תוכן: "You reach Bree and meet Aragorn at The Prancing Pony Inn."
+משימה: "Solve a riddle given by Aragorn to prove your trustworthiness."
+כפתור: "Travel to Weathertop".
+
+עמוד 7: וות'רטופ
+כותרת: "Weathertop"
+תוכן: "You reach Weathertop and face an attack by the Black Riders."
+משימה: "Find hidden clues in the scene to help defend against the attack."
+כפתור: "Continue to Rivendell".
+
+עמוד 8:arwen
+כותרת:"oh no! frodo got sttabed!"
+ןאז ארוון באה לקחת אותו לריבינדל...
+
+עמוד 9: ריבנדל
+כותרת: "Arrival at Rivendell"
+תוכן: "Welcome to Rivendell, the Elven city! Meet the Elves and learn about their history."
+חידות על ההיסטוריה של ריבנדל:
+"Who is the leader of the Elves in Rivendell?"
+כפתור: "Continue to the Council of Elrond".
+
+עמוד 10: מועצת אלרונד
+כותרת: "The Council of Elrond"
+תוכן: "Attend the Council of Elrond to discuss the fate of the ring."
+משימה: "Answer questions about the participants and decisions made at the council."
+כפתור: "Prepare for the journey to Moria".
+
+עמוד 11:פרודו מבקר את בילבו והוא עושה לו את הפרצוף
+
+עמוד 12: מוריה
+כותרת: "Journey through Moria"
+תוכן: "Enter the dark and dangerous mines of Moria."
+פאזל תמונה: "Solve the puzzle to open the doors of Moria."
+כפתור: "Enter Moria".
+פירוט נוסף לכל עמוד:
+
+עמוד 13: גשר קאזאד-דום
+כותרת: "The Bridge of Khazad-dûm"
+תוכן: "You reach the Bridge of Khazad-dûm and encounter the Balrog."
+משימה: "Help Gandalf defeat the Balrog by solving a series of quick puzzles."
+כפתור: "Escape to Lothlórien".
+
+עמוד 14: לות'לוריין
+כותרת: "Arrival at Lothlórien"
+תוכן: "Welcome to Lothlórien, the enchanted forest of the Elves."
+משימה: "Answer questions about the history and lore of Lothlórien to gain the trust of Galadriel."
+כפתור: "Receive the gifts from Galadriel".
+
+עמוד 15: מתנות גלדריאל
+כותרת: "Gifts from Galadriel"
+תוכן: "Galadriel gives you gifts that will aid you in your journey."
+משימה: "Identify and match the gifts to their descriptions."
+כפתור: "Prepare for the journey to Amon Hen".
+
+עמוד 16: אמון הן
+כותרת: "The Hill of Amon Hen"
+תוכן: "You reach Amon Hen and must defend yourself from orc attacks."
+משימה: "Use the environment to set traps and solve puzzles to fend off the orcs."
+כפתור: "Continue to Parth Galen".
+
+עמוד 17: פרת גלן
+כותרת: "The Breaking of the Fellowship"
+תוכן: "The Fellowship is broken and you must decide your next steps."
+משימה: "Choose a path and solve the riddles to find your way."
+כפתור: "Help Frodo and Sam escape."
+{זה יכול ללכת או לאראגון והאחרים או פרודו וסאם}
+
+עמוד 18: בריחה עם פרודו וסאם
+כותרת: "Escape with Frodo and Sam"
+תוכן: "Help Frodo and Sam escape from the orcs and continue their journey."
+משימה: "Navigate through a maze and avoid traps to reach safety."
+כפתור: "Finish the adventure".
+
+עמוד 19: סיום ההרפתקה
+כותרת: "End of the Adventure"
+תוכן: "Reflect on your journey and the adventures you've had."
+משימה: "Review your choices and see how they impacted the story."
+כפתור: "Receive your digital achievement certificate".
+פירוט נוסף לכל עמוד:
+
+
+בספר "שר הטבעות: אחוות הטבעת" מאת ג'.ר.ר. טולקין, גלדריאל מעניקה לחברי האחווה מספר מתנות יקרות ערך ועוצמה כאשר הם עוזבים את לות'לוריין. להלן המתנות שהיא נותנת לכל אחד מהם:
+
+לגולס - קשת עם חיצים ארוכים מאלה של בני הלילית, וקלע.
+גימלי - שלוש שערות מזהב ראשה של גלדריאל, אותן הוא מבקש כתשורה. הוא מבקש זאת כמחווה של כבוד והערצה.
+אראגורן - נדן חדש לחרב אנדוריל וסט של אבני ברקת שהן אבן אבן גדולה בצבע ירוק למדי שלו.
+בורומיר - חגורה מזהב.
+מֶרי ופיפין - חגורות כסף.
+סָם - קופסה של אדמה ובה גרגירים שמקורם בגני לות'לוריין. בקופסה יש גם אגוז כסף בודד, אשר ממנו גדל העץ המפורסם בלות'לוריין.
+פרודו - הבקבוקון של גלדריאל, המכיל את האור של כוכב ארנדיל, אשר יאיר לו בזמן חושך גדול.
+בנוסף לכך, כל חברי האחווה מקבלים גלימות אלפיות קסומות שארוגות בעדינות ויכולות לעזור להם בהסוואה.
