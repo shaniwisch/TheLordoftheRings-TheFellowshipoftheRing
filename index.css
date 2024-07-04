@@ -1,0 +1,84 @@
+body{
+    background-image:url(backgroundImges/lord1.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:100vw 100vh;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+ }
+
+.container {
+   position: relative;
+   width: 100%;
+   height: 100vh;
+}
+
+.titleLord {
+   position: absolute;
+   bottom: 25%;
+   left: 50%;
+   transform: translateX(-50%);
+}
+
+#titleindex{
+   color: rgb(240, 185, 45);/* Text color */
+   text-align: center;
+   font-family: "Cinzel Decorative", serif;
+   font-weight: 400;
+   font-size: 48px; /* Adjust the font size as needed */
+            text-shadow: 
+                2px 2px 0px black, /* Right shadow */
+                -2px 2px 0px black, /* Left shadow */
+                2px -2px 0px black, /* Top shadow */
+                -2px -2px 0px black, /* Bottom shadow */
+                2px 0px 0px black, /* Right middle shadow */
+                -2px 0px 0px black, /* Left middle shadow */
+                0px 2px 0px black, /* Bottom middle shadow */
+                0px -2px 0px black; /* Top middle shadow */
+}
+
+.pIndex {
+   font-size: larger;
+   text-align: center;
+   border-style: solid;
+   border-width: 5px;
+   background: rgba(82, 38, 19, 0.7); /* Brown background with 30% opacity */
+   color: rgb(240, 185, 45); /* Gold text color */
+   font-family: "Cinzel Decorative", serif;
+   padding: 10px; /* Optional: Add some padding for better appearance */
+}
+
+
+.bI {
+   display: inline-block;
+   padding: 10px 20px;
+   font-size: 16px;
+   text-align: center;
+   left: 50%;
+   position: absolute;
+   transform: translate(-50%, -50%);
+   text-decoration: none;
+   border: none;
+   border-radius: 5px;
+   background-color: #fada26; /* גוון צהוב */
+   color: #333; /* צבע טקסט */
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+}
+ 
+.bI:hover {
+   background-color: #f5d864; /* גוון צהוב בהיר יותר בעת העברת העכבר מעל הכפתור */
+   color: #fff; /* שינוי צבע טקסט ללבן */
+   transform: translate(-50%, -50%) scale(1.1); /* הגדלת הכפתור */
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* הוספת צללה */
+}
+
+.bI:active {
+   background-color: #c59402; /* גוון צהוב כהה יותר בעת לחיצה על הכפתור */
+   color: #fff; /* שינוי צבע טקסט ללבן */
+   transform: translate(-50%, -50%) scale(0.95); /* הקטנת הכפתור */
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* צללה קטנה יותר בעת לחיצה */
+}
