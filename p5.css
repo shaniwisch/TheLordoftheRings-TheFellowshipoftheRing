@@ -1,0 +1,54 @@
+body {
+    background-image: url(backgroundImges/lord5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100vw 100vh;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#title5{
+    color: rgb(240, 185, 45);
+    text-align: center;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-size: 48px;
+    text-shadow: 
+        2px 2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        -2px -2px 0px black,
+        2px 0px 0px black,
+        -2px 0px 0px black,
+        0px 2px 0px black,
+        0px -2px 0px black;
+}
+
+
+.p5 {
+    font-size: larger;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    background: rgba(82, 38, 19, 0.7);
+    color: rgb(240, 185, 45);
+    font-family: "Cinzel Decorative", serif;
+    padding: 10px;
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#blackRider{
+    width: 10px; /* גודל התמונה */
+    height: auto; /* משמר את היחס בין רוחב לגובה */
+    position: absolute;
+    top: 50%; /* מציב את התמונה באמצע הגובה */
+    left: 0; /* מציב את התמונה בצד שמאל */
+    transform: translateY(-50%); /* מציב את התמונה במרכז אנכי */
+}
+

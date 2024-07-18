@@ -1,0 +1,51 @@
+body {
+    background-image:url(backgroundimges/lord4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100vw 100vh;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#title4 {
+    color: rgb(240, 185, 45);
+    text-align: center;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-size: 48px;
+    text-shadow: 
+        2px 2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        -2px -2px 0px black,
+        2px 0px 0px black,
+        -2px 0px 0px black,
+        0px 2px 0px black,
+        0px -2px 0px black;
+}
+
+/* מגדירים את גודל תמונה מספר 1 */
+#oneR {
+    z-index: 1;
+    transform: translateY(-50%);
+    position: fixed;
+    right: 470px;
+    top: 47%;
+    display: block;
+    width: 30px; /* ניתן לשנות את הערך לפי הצורך */
+    margin-top: 20px; /* רווח בין התמונות, ניתן לשנות לפי הצורך */
+}
+
+/* מגדירים את גודל תמונה מספר 2 */
+#Env {
+    z-index: 2;
+    transform: translateY(-50%);
+    position: fixed;
+    right: 440px;
+    top: 50%;
+    display: block;
+    width: 100px; /* ניתן לשנות את הערך לפי הצורך */
+}

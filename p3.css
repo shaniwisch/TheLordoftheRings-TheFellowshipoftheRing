@@ -1,0 +1,115 @@
+body {
+    background-image: url(backgroundImges/lord3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100vw 100vh;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.p3 {
+    font-size: larger;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    background: rgba(82, 38, 19, 0.7);
+    color: rgb(240, 185, 45);
+    font-family: "Cinzel Decorative", serif;
+    padding: 10px;
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#title3 {
+    color: rgb(240, 185, 45);
+    text-align: center;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-size: 48px;
+    text-shadow: 
+        2px 2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        -2px -2px 0px black,
+        2px 0px 0px black,
+        -2px 0px 0px black,
+        0px 2px 0px black,
+        0px -2px 0px black;
+}
+
+#gandalfP3Container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 100vh;
+}
+
+#gandalfP3 {
+    transition: transform 0.2s;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#gandalfP3:active {
+    transform: scale(0.95);
+}
+
+#tb1-container {
+    position: relative;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transition: transform 0.2s;
+    cursor: pointer;
+}
+
+#tb1-container:active {
+    transform: scale(0.95);
+}
+
+.btB3 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #fada26;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+    position: fixed;
+}
+
+.btB3:hover {
+    background-color: #f5d864;
+    color: #fff;
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.btB3:active {
+    background-color: #c59402;
+    color: #fff;
+    transform: scale(0.95);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#textOntb {
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-size: larger;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 5px;
+    border-radius: 5px;
+    white-space: nowrap;
+}
